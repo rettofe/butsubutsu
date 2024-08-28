@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  category_id: 1
+  condition_id: 1
+  delivery_id: 1
+  address_id: 1
+  day_id: 1
+  price: 1
+  user: one
+  tradeable: false
+
+two:
+  title: MyString
+  description: MyText
+  category_id: 1
+  condition_id: 1
+  delivery_id: 1
+  address_id: 1
+  day_id: 1
+  price: 1
+  user: two
+  tradeable: false
